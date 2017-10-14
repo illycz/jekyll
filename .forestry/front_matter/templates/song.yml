@@ -1,0 +1,11 @@
+---
+hide_body: false
+fields:
+- type: text
+  label: Embed
+  name: embed
+  description: Description for embed field
+- type: textarea
+  name: lyrics
+  label: Lyrics
+  description: Description for lyrics field
