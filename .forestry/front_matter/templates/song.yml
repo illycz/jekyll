@@ -16,3 +16,5 @@ fields:
     label: Column
     name: column
     description: Column description
+  config:
+    labelField: column
