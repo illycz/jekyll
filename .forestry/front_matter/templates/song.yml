@@ -7,7 +7,12 @@ fields:
   label: Embed
   name: embed
   description: Description for embed field
-- type: textarea
+- type: field_group_list
   name: lyrics
   label: Lyrics
-  description: Description for lyrics field
+  description: Lyrics description
+  fields:
+  - type: textarea
+    label: Column
+    name: column
+    description: Column description
