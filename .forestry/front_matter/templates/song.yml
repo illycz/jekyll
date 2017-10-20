@@ -18,3 +18,11 @@ fields:
     description: Column description
   config:
     labelField: column
+- type: select
+  config:
+    source:
+      type: pages
+      section: pages
+    options: []
+  label: Related Page
+  name: related_page
