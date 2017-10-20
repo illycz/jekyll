@@ -12,4 +12,5 @@ lyrics:
     laoreet rutrum faucibus dolor auctor. Maecenas sed diam eget risus varius blandit
     sit amet non magna. Aenean lacinia bibendum nulla sed consectetur.
 title: Test song
+related_page: about.md
 ---
